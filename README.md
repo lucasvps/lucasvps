@@ -6,6 +6,6 @@
 - 💙 In love with Flutter
 - 🔭 Currently working on personal projects to improve mobile development and create quality solutions
 - 🌱 I’m currently learning UI/UX and Node.js
-- 📫 How to reach me: [Email](lucasvp611@hotmail.com)
+
 
 
