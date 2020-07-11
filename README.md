@@ -1,16 +1,15 @@
-### Hi there 👋
+### Lucas Vieira :man_technologist:
 
-<!--
-**lucasvps/lucasvps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vieira-66ba32173/)]
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:lucasmobdev@gmail.com)
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💙 In love with Flutter
+- 🔭 Currently working on personal projects to improve mobile development and create quality solutions
+- 🌱 I’m currently learning UI/UX and Node.js
+- 📫 How to reach me: [Email](lucasvp611@hotmail.com)
+
+
