@@ -5,7 +5,7 @@
 
 - 💙 In love with Flutter
 - 🔭 Currently working on personal projects to improve mobile development and create quality solutions
-- 🌱 I’m currently learning UI/UX and ReactJS.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
 
 
 
