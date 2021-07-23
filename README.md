@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:lucasmobdev@gmail.com)
 
 - 💙 In love with Flutter
-- 🔭 Currently working on personal projects to improve mobile development and create quality solutions
+- 🔭 Currently working as a Flutter Developer.
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 
 
