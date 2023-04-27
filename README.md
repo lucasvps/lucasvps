@@ -5,7 +5,7 @@
 
 - 💙 In love with Flutter
 - 🔭 Currently working as a Flutter Developer.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 🌱 I’m currently learning NodeJs
 
 
 
